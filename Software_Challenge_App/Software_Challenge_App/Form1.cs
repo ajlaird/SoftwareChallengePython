@@ -73,12 +73,12 @@ namespace Software_Challenge_App
 
                 {
                 floorArea = Math.Round(floorArea * 3.28,2);
-                lblFloorArea.Text = "Wall Area(Feet Sqaured):" + Convert.ToString(floorArea);//display result
+                lblFloorArea.Text = "Floor Area(Feet Sqaured):" + Convert.ToString(floorArea);//display result
                 }
 
             else
             {
-                lblFloorArea.Text = "Wall Area(Metres Squared):" + Convert.ToString(floorArea);//display result
+                lblFloorArea.Text = "Floor Area(Metres Squared):" + Convert.ToString(floorArea);//display result
                 }
         }
 

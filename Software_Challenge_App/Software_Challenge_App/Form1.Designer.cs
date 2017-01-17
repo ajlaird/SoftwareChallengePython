@@ -209,7 +209,7 @@
             this.Controls.Add(this.txtWidth1);
             this.Controls.Add(this.txtHeight);
             this.Name = "RoomCalculator";
-            this.Text = "Form1";
+            this.Text = "Room Calculator";
             this.ResumeLayout(false);
             this.PerformLayout();
 
